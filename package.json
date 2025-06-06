@@ -16,7 +16,7 @@
     "styled-components": "^6.1.18",
     "tailwindcss": "^4.1.8",
     "web-vitals": "^2.1.4"
-  },"homepage": "https://nithin77777777.github.io/Educase-live",
+  }, 
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
