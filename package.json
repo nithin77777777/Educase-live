@@ -1,29 +1,26 @@
-{
+ {
   "name": "educase-assignment",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://yourusername.github.io/educase-assignment",
   "dependencies": {
-    "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
     "@testing-library/react": "^16.3.0",
     "@testing-library/user-event": "^13.5.0",
-    "autoprefixer": "^10.4.21",
-    "postcss": "^8.5.4",
-    "react": "^19.1.0",
-    "react-dom": "^19.1.0",
-    "react-router-dom": "^7.6.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^5.3.4",
     "react-scripts": "5.0.1",
     "styled-components": "^6.1.18",
-    "tailwindcss": "^4.1.8",
     "web-vitals": "^2.1.4"
-  }, 
+  },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-  "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
@@ -44,7 +41,13 @@
     ]
   },
   "devDependencies": {
-    "eslint": "^8.57.1",
-    "prettier": "^3.5.3"
+    "gh-pages": "^6.1.0",
+    "eslint": "^8.57.0",
+    "eslint-plugin-react": "^7.34.1",
+    "prettier": "^3.2.5"
+  },
+  "engines": {
+    "node": ">=16.0.0",
+    "npm": ">=8.0.0"
   }
 }
