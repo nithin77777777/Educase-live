@@ -16,12 +16,14 @@
     "styled-components": "^6.1.18",
     "tailwindcss": "^4.1.8",
     "web-vitals": "^2.1.4"
-  },
+  },"homepage": "https://nithin77777777.github.io/Educase-live",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+  "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
