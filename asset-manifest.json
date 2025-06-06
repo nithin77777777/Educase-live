@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Educase-live/static/css/main.268078ce.css",
+    "main.js": "/Educase-live/static/js/main.5b907692.js",
+    "static/js/453.704780c7.chunk.js": "/Educase-live/static/js/453.704780c7.chunk.js",
+    "index.html": "/Educase-live/index.html",
+    "main.268078ce.css.map": "/Educase-live/static/css/main.268078ce.css.map",
+    "main.5b907692.js.map": "/Educase-live/static/js/main.5b907692.js.map",
+    "453.704780c7.chunk.js.map": "/Educase-live/static/js/453.704780c7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.268078ce.css",
+    "static/js/main.5b907692.js"
+  ]
+}
